@@ -1,8 +1,10 @@
 ---
 title: Template Chapter 1
-description: This is a template chapter.
----
+description: >-
+  This is a template chapter.
 
+
+---
 ## Ex 1.1
 
 ```yaml
@@ -13,7 +15,7 @@ skills: 1
 key: 99335e7294
 ```
 
-Do some data science.
+Instale o R e o RStudio
 
 `@instructions`
 
@@ -21,26 +23,11 @@ Do some data science.
 `@hint`
 
 
-`@pre_exercise_code`
 
-```{r}
 
-```
 
-`@sample_code`
 
-```{r}
 
-```
 
-`@solution`
 
-```{r}
 
-```
-
-`@sct`
-
-```{r}
-
-```
