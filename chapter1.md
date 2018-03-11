@@ -1,7 +1,7 @@
 ---
-title: Template Chapter 1
+title: Apresentação do curso
 description: >-
-  This is a template chapter.
+  Apresentação do curso
 
 
 ---
@@ -19,6 +19,7 @@ Instale o R e o RStudio
 
 `@instructions`
 
+Assista ao vídeo
 
 `@hint`
 
